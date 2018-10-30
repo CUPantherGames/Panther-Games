@@ -5,4 +5,4 @@ email: cu.panthergames@gmail.com
 
 theme: minima
 
-exclude: ["README.md"]
+exclude: 
