@@ -1,4 +1,8 @@
-title: 
+# global settings
+title: "Panther Games"
+description: "Panther Games is Chapman Universities Game Development Organization"
 email: cu.panthergames@gmail.com
 
 theme: minima
+
+exclude: ["README.md"]
